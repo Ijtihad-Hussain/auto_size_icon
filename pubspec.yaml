@@ -1,7 +1,6 @@
 name: auto_size_icon
 description: A Flutter widget for automatically adjusting icon sizes.
 version: 1.0.0
-author: Ijtihad Hussain <mr.ijtihadhussain@gmail.com>
 homepage: https://github.com/Ijtihad-Hussain/auto_size_icon
 repository: https://github.com/Ijtihad-Hussain/auto_size_icon.git
 license: MIT

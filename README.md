@@ -1,6 +1,9 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Auto Size Icon
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+A Flutter widget that automatically adjusts the size of an icon based on factors such as available space, parent widget's dimensions, or desired visual aesthetics.
+
+## Features
+
+- Dynamically adapts icon size to available space.
+- Provides control over maximum icon size.
+- Easy integration into Flutter projects.
